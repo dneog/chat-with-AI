@@ -1,6 +1,13 @@
+## Demo
+
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
+
+
+https://github.com/dneog/chat-with-AI/assets/127652708/db0d3f9a-908f-43e8-89b9-1b056b39146c
+
 
 First, run the development server:
 
@@ -15,6 +22,7 @@ Open your browser and load the appropriate development build. For example, if yo
 You can start editing the popup by modifying `popup.tsx`. It should auto-update as you make changes. To add an options page, simply add a `options.tsx` file to the root of the project, with a react component default exported. Likewise to add a content page, add a `content.ts` file to the root of the project, importing some module and do some logic, then reload the extension on your browser.
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/)
+
 
 ## Making production build
 
